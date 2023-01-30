@@ -113,6 +113,7 @@ public class Main {
                     break;
                 case "stop":
                     System.exit(0);
+                    break;
                 default:
                     // ask for input of action
                     System.out.println("\n\nDo you want to add a student \"a\", modify scores \"m\", or access scores \"s\"?");
